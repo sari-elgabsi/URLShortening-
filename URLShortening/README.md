@@ -1,6 +1,6 @@
 # Guides
 
-1. Import the attached zip to Intelij/ide.
+1. dlownload project to Intelij/ide.
 
 2. Run the application.
 
