@@ -20,13 +20,13 @@
  
  originalLongURL value provided as reference.
  
- 2. redirect:
+ 2. for redirect API use below curl:
  
  curl --location --request GET 'http://localhost:8080/redirectUrl/U'
  
  path variable provided as reference and can be replaced according to Shortening API response
  
- 3. Analytics:
+ 3. for Analytics API use below curl:
  
  curl --location --request GET 'http://localhost:8080/shortenedUrlStatistics/U' 
  
